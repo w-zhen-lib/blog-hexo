@@ -102,9 +102,15 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: sftp
-  host: 116.198.204.150
-  user: root
-  pass: Root@zj11
-  remotePath: /opt/hexo-blog
-  port: 22
+  - type: sftp
+    host: 116.198.204.150
+    user: root
+    pass: Root@zj11
+    remotePath: /opt/hexo-blog
+    port: 22
+  - type: sftp
+    host: 165.140.240.195
+    user: root
+    pass: Qqwer1234
+    remotePath: /opt/hexo-blog
+    port: 22

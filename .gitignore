@@ -3,15 +3,11 @@
 tmp/
 *.log
 .idea/
-yarn.lock
-package-lock.json
-pnpm-lock.yaml
 .nyc_output/
 coverage/
 .tmp*
 .vscode
 dist/
 /public/
-db.json
-/themes/
+/themes/butterfly/node_modules
 _config.landscape.yml
