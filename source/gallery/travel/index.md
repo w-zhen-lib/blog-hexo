@@ -1,10 +1,11 @@
 ---
-title: 黄山行
+title: 旅行日记
 date: 2024-08-05 10:13:25
 top_img: https://s2.loli.net/2024/08/05/ogeMc5wkvLBWN2i.jpg
 aside: false
 ---
 
+# 黄山行
 {% gallery %}
 ![](https://s2.loli.net/2024/08/05/UwAyVsYnGe5bv2M.jpg)
 ![](https://s2.loli.net/2024/08/05/71DoFKlGnRCfIHA.jpg)
