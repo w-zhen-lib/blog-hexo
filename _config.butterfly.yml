@@ -23,7 +23,7 @@ menu:
 # Code Blocks (代碼相關)
 # --------------------------------------
 
-highlight_theme: darker #  darker / pale night / light / ocean / mac / mac light / false
+highlight_theme: light #  darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button
 highlight_lang: true # show the code language
 highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
@@ -56,7 +56,8 @@ index_img: https://s2.loli.net/2024/08/01/A6mOaDXqkc2lzMR.jpg
 # index_img: /img/wallhaven-weogjx.jpg
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://s2.loli.net/2024/08/01/ib38QBV2CAUoW5S.jpg
+# default_top_img: https://s2.loli.net/2024/08/01/ib38QBV2CAUoW5S.jpg
+default_top_img: https://s2.loli.net/2024/08/05/5ipZHx1w8F7Glm3.jpg
 
 # The banner image of archive page
 archive_img:
@@ -283,7 +284,7 @@ busuanzi:
 # Time difference between publish date and now (網頁運行時間)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
-  enable: false
+  enable: true
   publish_date:
 
 # Aside widget - Newest Comments
@@ -610,7 +611,7 @@ site_verification:
 
 theme_color:
   enable: true
-  main: "#A38357"
+  main: "#D1E7F3"
 #   paginator: "#00c4b6"
 #   button_hover: "#FF7242"
 #   text_selection: "#00c4b6"
@@ -645,15 +646,19 @@ text_align_justify: false
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background:
+background: 
+  # - url(https://s2.loli.net/2024/08/01/A6mOaDXqkc2lzMR.jpg)
+  - "linear-gradient(to right, #00467f, #a5cc82)"
 
 # Footer Background
-footer_bg: false
+footer_bg:
+  # - url(https://s2.loli.net/2024/08/01/A6mOaDXqkc2lzMR.jpg)
+  - "linear-gradient(to right, #00467f, #a5cc82)"
 
 # Add mask to header or footer (为 header 或 footer 添加黑色半透遮罩)
 mask:
   header: true
-  footer: true
+  footer: false
 
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
 rightside_bottom:
@@ -915,6 +920,7 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
+    # - <link rel="stylesheet" href="/css/mycss.css"> # 自定义的渐变色卡片
   bottom:
     # - <script src="xxxx"></script>
 
