@@ -4,7 +4,7 @@ type: "photos"
 order: -1
 aside: false
 comments: false
-top_image: https://s2.loli.net/2024/07/31/wxJX4Tnz6PoHiWR.jpg
+top_img: https://s2.loli.net/2024/07/31/wxJX4Tnz6PoHiWR.jpg
 ---
 
 <div class="gallery-group-main">
