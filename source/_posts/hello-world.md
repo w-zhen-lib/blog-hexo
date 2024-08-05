@@ -1,7 +1,9 @@
 ---
 title: Hexo 部署
-top_img: https://unsplash.it/1600/900?random
-cover: https://unsplash.it/800/600?random
+tag: blog
+categories: 知识库
+top_img: https://unsplash.it/id/265/1600/900
+cover: https://unsplash.it/id/265/800/600
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
