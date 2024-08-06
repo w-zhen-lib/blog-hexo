@@ -11,3 +11,4 @@ dist/
 /public/
 /themes/butterfly/node_modules
 _config.landscape.yml
+db.json
