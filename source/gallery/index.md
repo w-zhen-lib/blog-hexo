@@ -9,4 +9,5 @@ top_img: https://s2.loli.net/2024/07/31/wxJX4Tnz6PoHiWR.jpg
 
 <div class="gallery-group-main">
 {% galleryGroup '旅行' '足迹' '/gallery/travel' https://s2.loli.net/2024/08/05/ogeMc5wkvLBWN2i.jpg %}
+{% galleryGroup '壁纸' '收藏' '/gallery/wallpaper' https://e166e9a.webp.ee//wallpaper/2024/08/2.jpg %}
 </div>
