@@ -1,8 +1,8 @@
 ---
 title: Hexo日历插件
 date: 2024-08-06 09:34:06
-tags: blog
-categories: 知识库
+tags: [Hexo,Hexo-butterfly]
+categories: blog
 top_img: https://picsum.photos/id/119/1920/600
 cover: https://picsum.photos/id/119/800/600
 ---
