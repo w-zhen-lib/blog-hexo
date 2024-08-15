@@ -109,8 +109,9 @@ deploy:
     remotePath: /opt/hexo-blog
     port: 22
   - type: sftp
-    host: 165.140.240.195
+    # host: 165.140.240.195
+    host: 154.12.62.25
     user: root
     pass: Qqwer1234
     remotePath: /opt/hexo-blog
-    port: 22
+    port: 2443
