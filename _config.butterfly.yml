@@ -650,12 +650,12 @@ text_align_justify: false
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
 background: 
   # - url(https://s2.loli.net/2024/08/01/A6mOaDXqkc2lzMR.jpg)
-  - "linear-gradient(to right, #00467f, #a5cc82)"
+  - "linear-gradient(to left, #00467f, #a5cc82)"
 
 # Footer Background
 footer_bg:
   # - url(https://s2.loli.net/2024/08/01/A6mOaDXqkc2lzMR.jpg)
-  - "linear-gradient(to right, #00467f, #a5cc82)"
+  - "linear-gradient(to left, #00467f, #a5cc82)"
 
 # Add mask to header or footer (为 header 或 footer 添加黑色半透遮罩)
 mask:
