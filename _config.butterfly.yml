@@ -926,12 +926,13 @@ inject:
   bottom:
     # - <script src="xxxx"></script>
     # - <script src="/js/jquery-3.4.1.min.js"></script>
-    #日历插件
+    #js顺序不能乱
+    - <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
     - <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    #日历插件
     - <script src="/js/calendar.js"></script>
     - <script src="/js/languages.js"></script>
     #live-2d
-    - <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
     - <script src="/live2d-widget/autoload.js"></script>
     - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>
 
