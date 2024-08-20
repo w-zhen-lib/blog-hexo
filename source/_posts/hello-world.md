@@ -1,6 +1,7 @@
 ---
 title: Hexo 部署
 tag: Hexo
+date: 2024-07-29 10:37:06
 categories: blog
 top_img: https://unsplash.it/id/265/1600/900
 cover: https://unsplash.it/id/265/800/600
