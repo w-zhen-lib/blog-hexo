@@ -187,7 +187,7 @@ post_edit:
 # Related Articles
 related_post:
   enable: true
-  limit: 6 # Number of posts displayed
+  limit: 3 # Number of posts displayed
   date_type: created # or created or updated 文章日期顯示創建日或者更新日
 
 # post_pagination (分頁)
@@ -243,7 +243,7 @@ aside:
     enable: true #日历组件
   card_recent_post:
     enable: true
-    limit: 5 # if set 0 will show all
+    limit: 2 # if set 0 will show all
     sort: date # date or updated
     sort_order: # Don't modify the setting unless you know how it works
   card_categories:
